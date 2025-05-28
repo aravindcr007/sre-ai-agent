@@ -36,7 +36,7 @@ This project is an AI-powered agent designed to assist Site Reliability Engineer
 ├── config.py                   # Configuration for API keys, mock API endpoint, etc.
 ├── requirements.txt            # Python dependencies
 ├── .gitignore                  # Files and directories ignored by Git
-├── lambda_mock_data/           # (Likely contains mock data for the Lambda mock API)
+├── lambda_function.py          # lambda function to generare logs in AWS cloudwatch
 └── README.md                   # This file
 ```
 
