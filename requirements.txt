@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit
+langchain
+langchain-google-genai
+langchain-core
+boto3
+plotly
+pandas
+requests
+pydantic
